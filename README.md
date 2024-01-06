@@ -1,1 +1,1 @@
-# JavascripNC
+# JavascriptNC
